@@ -228,11 +228,5 @@ To access the API service, type **``localhost``** in the browser.
 This project is production ready for similar use cases and will provide the automated and orchestrated pipeline.
 #### **👉🏻Thank you for visiting 🙏 Your feedback would be highly appreciated 💯😊**<br>
 #### **👉🏻If you find this project useful then don't forget to star the repo ✨⭐🤖**<br>
-#### 🌏[My Portfolio Website][website] <br><br>
-#### **📃 License**
-[MIT][license] © [SameerSheikh][website]
 
-[license]: hhttps://github.com/Hassi34/brain-tumor-classification/blob/main/LICENSE
-[website]: https://hasanain.aicaliber.com
-
-Let's connect on **[``LinkedIn``](www.linkedin.com/in/sameerrsheikhh)** <br>
+Let's connect on **[``LinkedIn``](https://www.linkedin.com/in/sameerrsheikhh/)** <br>
