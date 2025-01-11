@@ -230,9 +230,9 @@ This project is production ready for similar use cases and will provide the auto
 #### **👉🏻If you find this project useful then don't forget to star the repo ✨⭐🤖**<br>
 #### 🌏[My Portfolio Website][website] <br><br>
 #### **📃 License**
-[MIT][license] © [Hasanain][website]
+[MIT][license] © [SameerSheikh][website]
 
 [license]: hhttps://github.com/Hassi34/brain-tumor-classification/blob/main/LICENSE
 [website]: https://hasanain.aicaliber.com
 
-Let's connect on **[``LinkedIn``](https://www.linkedin.com/in/hasanain-mehmood)** <br>
+Let's connect on **[``LinkedIn``](www.linkedin.com/in/sameerrsheikhh)** <br>
